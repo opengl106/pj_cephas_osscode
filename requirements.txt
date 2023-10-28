@@ -1,0 +1,11 @@
+ase==3.22.1
+dscribe==1.2.2
+gpaw==22.1.0
+kimpy==2.0.0
+matplotlib==3.5.2
+numpy==1.22.4
+pandas==1.4.3
+pyqt5==5.15.7
+tk==0.1.0
+tensorflow-gpu==2.9.1
+wheel==0.37.1

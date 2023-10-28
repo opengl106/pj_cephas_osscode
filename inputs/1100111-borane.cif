@@ -1,0 +1,85 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-18 17:37:37 +0200 (Thu, 18 Feb 2016) $
+#$Revision: 176729 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/1/10/01/1100111.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1100111
+loop_
+_publ_author_name
+'Daniel J. Stasko'
+'Kevin J. Perzynski'
+'Mark A. Wasil'
+'Julia K. Brodbeck'
+'Kristin Kirschbaum'
+'Yong Wah Kim'
+'Cora Lind'
+_publ_contact_author
+;
+Daniel J. Stasko
+;
+_publ_contact_author_email       daniel.stasko@utoledo.edu
+_publ_contact_author_fax         419-530-4033
+_publ_contact_author_phone       419-530-4087
+_publ_section_title
+;
+An Addition to the Oxoacid Family: H2B12(OH)12
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              3786
+_journal_page_last               3788
+_journal_paper_doi               10.1021/ic049564k
+_journal_volume                  43
+_journal_year                    2004
+_chemical_formula_sum            'H12 B12 N2 O12'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha                90.000003
+_cell_angle_beta                 92.990499
+_cell_angle_gamma                90.000003
+_cell_formula_units_Z            2
+_cell_length_a                   7.135660
+_cell_length_b                   10.392400
+_cell_length_c                   9.247710
+_cod_original_sg_symbol_H-M      'P 21/n             '
+_cod_database_code               1100111
+loop_
+_symmetry_equiv_pos_as_xyz
+X,Y,Z
+1/2-X,1/2+Y,1/2-Z
+-X,-Y,-Z
+X+1/2,-Y+1/2,Z+1/2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+_atom_site_type_symbol
+N1 0.7780 0.5475 0.5155 0.006 1.000 N
+B1 0.6971 0.5239 0.1129 0.005 1.000 B
+O1 0.8592 0.5408 0.2093 0.041 1.000 O
+B2 0.4567 0.5581 0.1667 0.005 1.000 B
+O2 0.4241 0.6063 0.3188 0.041 1.000 O
+B3 0.5592 0.6542 0.0362 0.005 1.000 B
+O3 0.5974 0.7970 0.0602 0.041 1.000 O
+B4 0.6930 0.5596 -0.0863 0.005 1.000 B
+O4 0.8586 0.6068 -0.1444 0.041 1.000 O
+B5 0.6741 0.3853 -0.0184 0.005 1.000 B
+O5 0.8444 0.3208 -0.0246 0.041 1.000 O
+B6 0.5377 0.3922 0.1396 0.005 1.000 B
+O6 0.5748 0.3063 0.2708 0.041 1.000 O
+H1 0.9691 0.5345 0.1966 0.041 1.000 H
+H2 0.2980 0.6179 0.3171 0.041 1.000 H
+H3 0.7117 0.7996 0.0683 0.041 1.000 H
+H4 0.9715 0.5991 -0.1424 0.041 1.000 H
+H5 0.9567 0.3219 -0.0257 0.041 1.000 H
+H6 0.4627 0.2918 0.2479 0.041 1.000 H
